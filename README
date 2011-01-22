@@ -1,0 +1,4 @@
+RaidDumpConv
+Written by Alex Siegman
+
+This converts a Raid Dump taken from the EQ raid window and converts in to a fake raid that the original esdkp program can understand.
