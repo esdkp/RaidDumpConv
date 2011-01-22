@@ -1,0 +1,53 @@
+1	Kanadezzra	85	Shaman	Group Leader	
+1	Hurlee	85	Rogue		
+1	Reapaz	85	Rogue		
+1	Gijo	85	Monk		
+1	Tungest	85	Ranger		
+2	Zakik	85	Warrior	Group Leader	
+2	Proxzemidus	85	Paladin		
+2	Succuba	85	Cleric		
+2	Ubdaien	85	Necromancer		
+2	Muga	84	Enchanter		
+3	Nathanar	85	Paladin	Group Leader	
+3	Kyreth	85	Cleric		
+3	Nizzi	85	Necromancer		
+3	Amiel	85	Warrior		
+4	Jarson	85	Warrior		
+4	Blacjack	85	Warrior	Group Leader	
+4	Sunnie	85	Enchanter		
+4	Shagsterklue	85	Beastlord		
+5	Ylyrra	85	Cleric		
+5	Kazh	83	Shadow Knight		
+5	Cangaceiro	85	Beastlord	Group Leader	
+5	Bogagar	81	Shadow Knight		
+6	Frootie	85	Warrior		
+6	Dissident	85	Rogue	Group Leader	
+7	Kilvari	85	Rogue	Raid Leader	
+7	Taunto	85	Monk		
+7	Rohgziel	85	Ranger		
+7	Sonof	85	Berserker		
+7	Kallel	85	Druid		
+8	Kaput	85	Paladin	Group Leader	
+8	Zezima	84	Warrior		
+8	Fafhurd	85	Shaman		
+8	Whipsnade	85	Ranger		
+8	Aaxxandum	85	Cleric		
+9	Thalsadoom	85	Wizard	Group Leader	
+9	Homework	85	Enchanter		
+9	Neuania	85	Magician		
+9	Fazin	85	Wizard		
+9	Antionious	82	Wizard		
+10	Spykke	85	Druid		
+10	Yroc	85	Warrior	Group Leader	
+10	Alsmack	85	Shadow Knight		
+10	Rikii	85	Cleric		
+10	Brindain	85	Necromancer		
+11	Eggborn	85	Shadow Knight	Group Leader	
+11	Iane	85	Druid		
+11	Wahnil	85	Warrior		
+12	Squint	81	Cleric		
+12	Noircogi	85	Necromancer		
+12	Tudana	85	Warrior	Group Leader	
+12	Blazzed	85	Shadow Knight		
+13	Memzin	85	Cleric		
+13	Melaysa	84	Cleric		
